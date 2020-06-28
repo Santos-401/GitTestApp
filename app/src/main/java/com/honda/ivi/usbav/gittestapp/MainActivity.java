@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //test
+        //test005 change from remote/master
+        testMethodBranchChanges();
     }
     private void testMethodBranchChanges(){
         // test001

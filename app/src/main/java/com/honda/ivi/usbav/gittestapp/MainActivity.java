@@ -24,5 +24,7 @@ public class MainActivity extends AppCompatActivity {
         // test001
         // test002
     }
-
+    private void testMethodChangeFromRemote(){
+        //test003
+    }
 }

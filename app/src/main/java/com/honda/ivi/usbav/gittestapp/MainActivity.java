@@ -29,5 +29,8 @@ public class MainActivity extends AppCompatActivity {
     private void makeDifferenceToMaster(){
         //test004
     }
+    private void checkRebase(){
+        //test006
+    }
 
 }

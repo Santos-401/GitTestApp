@@ -27,7 +27,8 @@ public class SecondFragment extends Fragment {
             }
         });
     }
-    private void checkRebase(){
+    private void checkRebase() {
         //check rebase operation.
         //
+    }
 }
